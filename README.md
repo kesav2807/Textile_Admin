@@ -1,75 +1,75 @@
-# 🧵 Textile Admin Dashboard – Frontend Only
+# 🧵 Textile Admin Dashboard (Frontend Only)
 
-A modern and responsive *Admin Dashboard UI* built using *React.js* for managing textile store operations such as product uploads, order tracking, delivery management, reviews, stock, expenses, and advertisements.
+A clean, professional, and fully responsive **Admin Dashboard UI** developed with **React.js** for managing textile store operations. This interface supports product uploads, order management, delivery tracking, reviews, stock tracking, expenses, and advertisements.
 
-> ⚠ This project is *frontend-only* and uses mock data. API integration and backend setup are not included in this repository.
+> ⚠️ This is a **frontend-only** project and currently uses mock/static data. Backend integration is not included.
 
 ---
 
 ## 🔗 Live Demo
 
-🚧 Coming Soon...
+🌍 [View Live Project](https://textile-admin.vercel.app)
 
 ---
 
-## 📂 Repository
+## 📁 Repository
 
-GitHub: [kesav2807/Textile_Admin](https://github.com/kesav2807/Textile_Admin)
+📦 GitHub: [kesav2807/Textile_Admin](https://github.com/kesav2807/Textile_Admin)
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 🔐 Admin Login UI
-- 🧾 Product Upload Form with image field (UI only)
-- 🔍 Smart Search and Filtering
-- 📦 Order Management (Dispatched / Cancelled / Pending)
-- 🚚 Delivery Tracking with search and modal display
-- ⭐ Reviews & Ratings Management UI
-- 📉 Stock and Expense Tracking UI
-- 🖼 Advertisement Upload & Edit Panel
-- 💬 Toast Notifications for user feedback
-- 📱 Fully Responsive Layout
-- 🎨 Animated UI with Framer Motion
+- 🔐 Admin Login Interface
+- 🧾 Product Upload UI with image placeholder
+- 🔍 Real-time Search & Filtering
+- 📦 Order Tracking (Dispatched / Cancelled / Pending)
+- 🚚 Delivery Management with Modal View
+- ⭐ Review & Rating Management
+- 📉 Stock and Expense Overview
+- 🖼️ Advertisement Image Upload and Editor UI
+- 💬 Toast Notifications for Action Feedback
+- 📱 Fully Responsive on All Devices
+- 🎞️ Smooth Animations using Framer Motion
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology              | Purpose                      |
-|-------------------------|------------------------------|
-| React.js                | Frontend Framework           |
-| CSS / Tailwind CSS      | Styling                      |
-| Framer Motion           | UI Animations                |
-| React Hot Toast         | Notifications                |
-| Lucide-react            | Icons                        |
-| React Responsive Pagination | Pagination for lists     |
+| Technology                  | Purpose                         |
+|-----------------------------|----------------------------------|
+| **React.js**                | Component-based frontend framework |
+| **CSS / Tailwind CSS**      | Responsive and modern styling     |
+| **Framer Motion**           | UI animations                     |
+| **React Hot Toast**         | User notifications                |
+| **Lucide-react**            | Clean icon library                |
+| **React Responsive Pagination** | Pagination for listings         |
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
 Textile_Admin/
-├── public/
+├── public/ # Static files
 │ └── index.html
 ├── src/
-│ ├── components/ # Reusable components
-│ ├── layouts/ # Admin layout, header, sidebar
-│ ├── pages/ # Page components (Orders, UploadProducts, etc.)
-│ ├── services/ # (Optional) API config (for future backend)
-│ ├── App.js # Main App component
+│ ├── components/ # Reusable UI components
+│ ├── layouts/ # Admin layout, navigation, header
+│ ├── pages/ # Screens: Upload, Orders, Tracking, etc.
+│ ├── services/ # Optional API configs
+│ ├── App.js # Root component
 │ └── index.js # Entry point
 ├── package.json
 └── README.md
 
----
+## 📸 Screenshots
 
-## 🚀 Getting Started
-
-Follow these instructions to run the project locally.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/kesav2807/Textile_Admin.git
-cd Textile_Admin
+![image](https://github.com/user-attachments/assets/f3857a42-3e52-4db9-a979-3f75793af667)
+![image](https://github.com/user-attachments/assets/983c0de3-76a1-4fd6-8e44-551c7e0f7add)
+![image](https://github.com/user-attachments/assets/6be78076-f563-4fc8-bf68-6acdd3c211fb)
+![image](https://github.com/user-attachments/assets/30846069-d048-44f3-b1a7-08cb3d76ad3b)
+![image](https://github.com/user-attachments/assets/a75e1fb1-d5ca-4640-b0fa-6f8e440a53f9)
+![image](https://github.com/user-attachments/assets/a8f25ad3-fe60-473b-bf02-9269202eb2e7)
+![image](https://github.com/user-attachments/assets/523915ef-1e81-4924-8ea4-e66d91572913)
+![image](https://github.com/user-attachments/assets/0756df14-ec88-4ade-bd10-ed17e3373912)
+![image](https://github.com/user-attachments/assets/929661ec-8907-44e2-9473-59308d74ccee)
