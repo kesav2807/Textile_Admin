@@ -92,7 +92,7 @@ cd Textile_Admin
   npm run dev
 This will start the app on http://localhost:5173
 ---
-###👨‍💻 Author
+### 👨‍💻 Author
 Kesavan S N
 
 🔗 GitHub: @kesav2807
