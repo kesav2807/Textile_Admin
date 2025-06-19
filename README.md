@@ -92,8 +92,6 @@ cd Textile_Admin
   npm run dev
 This will start the app on http://localhost:5173
 ---
-
-
 ###👨‍💻 Author
 Kesavan S N
 
@@ -102,3 +100,4 @@ Kesavan S N
 📧 Email: kesevansunder007@gmail.com
 
 📱 WhatsApp: +91 85318 41017
+
