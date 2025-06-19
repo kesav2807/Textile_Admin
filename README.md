@@ -73,3 +73,32 @@ Textile_Admin/
 ![image](https://github.com/user-attachments/assets/523915ef-1e81-4924-8ea4-e66d91572913)
 ![image](https://github.com/user-attachments/assets/0756df14-ec88-4ade-bd10-ed17e3373912)
 ![image](https://github.com/user-attachments/assets/929661ec-8907-44e2-9473-59308d74ccee)
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the Repository
+
+
+git clone https://github.com/kesav2807/Textile_Admin.git
+cd Textile_Admin
+### Install Dependencies
+  npm install
+###  Start the Development Server
+  npm run dev
+This will start the app on http://localhost:5173
+---
+
+
+###👨‍💻 Author
+Kesavan S N
+
+🔗 GitHub: @kesav2807
+
+📧 Email: kesevansunder007@gmail.com
+
+📱 WhatsApp: +91 85318 41017
